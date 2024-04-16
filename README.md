@@ -1,8 +1,24 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# React Todo list app
 
-Currently, two official plugins are available:
+This is a todo app made in react js it's a simple web application to make list of thing you ususally make in your daily life.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Installation
+
+1. Install my-project with npm
+
+```bash
+  git clone https://github.com/booknerds010/Todo.git
+```
+2. In the Installation directory run command to install required  packages 
+
+```bash
+  npm i
+```
+3. After the packages are installed run command in terminal 
+
+```bash
+  npm run dev
+```
+You will find app running in localhost 
